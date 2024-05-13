@@ -1,1 +1,1 @@
-# Pokedex
+# Pokedex feita no curso da [DIO([https://web.dio.me/home](https://web.dio.me/track/orange-tech))]
